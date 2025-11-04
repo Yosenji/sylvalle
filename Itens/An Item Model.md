@@ -1,0 +1,5 @@
+## Efeitos
+
+## Importância 
+
+## Localização
