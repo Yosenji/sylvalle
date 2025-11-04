@@ -1,18 +1,18 @@
 # Habitats
 
-- [[Livro dos Monstros.pdf#page=379|Monstros da floresta]]
+- [[monstros.pdf#page=379|Monstros da floresta]]
 
 
 # Tipos
 
-- [[Livro dos Monstros.pdf#page=384|Plantas]]
+- [[monstros.pdf#page=384|Plantas]]
 
 
 # Monstros Relevantes
 
-- [[Livro dos Monstros.pdf#page=26|Plantas Falantes]]
-- [[Livro dos Monstros.pdf#page=311|Árvores falantes]]
-- [[Livro dos Monstros.pdf#page=304|Golem de pedra]]
-- [[Livro dos Monstros.pdf#page=46|Bichos paus]]
-- [[Livro dos Monstros.pdf#page=345|Yuan-ti]]
-- [[Livro dos Monstros.pdf#page=301|Sprites]]
+- [[monstros.pdf#page=26|Plantas Falantes]]
+- [[monstros.pdf#page=311|Árvores falantes]]
+- [[monstros.pdf#page=304|Golem de pedra]]
+- [[monstros.pdf#page=46|Bichos paus]]
+- [[monstros.pdf#page=345|Yuan-ti]]
+- [[monstros.pdf#page=301|Sprites]]
