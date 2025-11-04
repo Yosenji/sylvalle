@@ -11,32 +11,27 @@
             "id": "c8f2656b30806e58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Facções/Sprites.md",
-                "mode": "source",
-                "source": false
+                "file": "z_assets/Livros/manual.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sprites"
+              "icon": "lucide-file-text",
+              "title": "manual"
             }
           },
           {
             "id": "ea961dd2f072d95b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Facções/Fadas.md",
-                "mode": "source",
-                "source": false
+                "file": "z_assets/Livros/manual.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Fadas"
+              "icon": "lucide-file-text",
+              "title": "manual"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,17 +177,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea961dd2f072d95b",
+  "active": "bae40b05ac867370",
   "lastOpenFiles": [
-    "Facções/An Group Model.md",
-    "Facções/Fadas.md",
-    "Facções/Golem de Sylvalle.md",
-    "Facções/Plantas.md",
+    "z_assets/Livros/manual.pdf",
+    "Referências/Aventuras.md",
     "Facções/Sprites.md",
+    "Facções/Golem de Sylvalle.md",
+    "Facções/Fadas.md",
+    "Facções/An Group Model.md",
+    "Facções/Plantas.md",
     "z_assets/Livros/hehe.md",
     "z_assets/Pasted image 20251104094726.png",
     "z_assets/Pasted image 20251104094720.png",
@@ -203,7 +199,6 @@
     "Itens/An Item Model.md",
     "z_assets/Pasted image 20251104093622.png",
     "Itens",
-    "z_assets/Livros/manual.pdf",
     "z_assets/Livros/monstros.pdf",
     "Referências/Monstros Relevantes.md",
     "Referências",

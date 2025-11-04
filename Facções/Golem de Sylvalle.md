@@ -8,6 +8,8 @@ Após a morte do mago, a relíquia foi perdida e o golem adormeceu por muitos s�
 
 ## Importância
 
+Faz parte do ambiente da floresta e nele nascem os frutos [[Vintana]].
+
 ## Localização
 
 ## Relações
