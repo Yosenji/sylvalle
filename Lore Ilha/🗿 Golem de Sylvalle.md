@@ -1,3 +1,5 @@
+![[Pasted image 20251104091517.png|400]]
+
 ## Origem
 
 Foi criado a séculos atrás por um mago chamado **Wissel, o sábio carmesim**, o golem era controlado a partir de uma relíquia criada pelo próprio mago. 
