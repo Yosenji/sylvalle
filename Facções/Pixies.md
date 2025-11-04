@@ -1,3 +1,4 @@
+![[Pasted image 20251104162813.png|400]]
 ## Origem
 
 Habitantes das florestas na ilha [[Silvalle]].
