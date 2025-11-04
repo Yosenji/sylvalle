@@ -6,6 +6,6 @@ Apenas uma mordida serve como uma refeição inteira, fazendo com que o usuário
 
 ## Importância 
 
-Principal fonte de alimentação para [[Fadas]], [[Sprites]] e
+Principal fonte de alimentação para [[Pixies]], [[Sprites]] e
 
 ## Localização

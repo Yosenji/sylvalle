@@ -1,7 +1,0 @@
-## Origem
-
-## Importância
-
-## Localização
-
-## Relações

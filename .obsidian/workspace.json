@@ -11,27 +11,32 @@
             "id": "c8f2656b30806e58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_assets/Livros/manual.pdf"
+                "file": "Facções/Sprites.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "manual"
+              "icon": "lucide-file",
+              "title": "Sprites"
             }
           },
           {
-            "id": "ea961dd2f072d95b",
+            "id": "5acbcaf04a66d554",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_assets/Livros/manual.pdf"
+                "file": "Facções/Pixies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "manual"
+              "icon": "lucide-file",
+              "title": "Pixies"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bae40b05ac867370",
+  "active": "5acbcaf04a66d554",
   "lastOpenFiles": [
+    "Facções/Golem de Sylvalle.md",
+    "Facções/Pixies.md",
+    "Facções/Sprites.md",
+    "Facções/Plantas.md",
+    "Referências/Monstros Relevantes.md",
     "z_assets/Livros/manual.pdf",
     "Referências/Aventuras.md",
-    "Facções/Sprites.md",
-    "Facções/Golem de Sylvalle.md",
-    "Facções/Fadas.md",
     "Facções/An Group Model.md",
-    "Facções/Plantas.md",
     "z_assets/Livros/hehe.md",
     "z_assets/Pasted image 20251104094726.png",
     "z_assets/Pasted image 20251104094720.png",
@@ -200,7 +206,6 @@
     "z_assets/Pasted image 20251104093622.png",
     "Itens",
     "z_assets/Livros/monstros.pdf",
-    "Referências/Monstros Relevantes.md",
     "Referências",
     "z_assets/Pasted image 20251104092127.png",
     "z_assets/Pasted image 20251104091517.png",

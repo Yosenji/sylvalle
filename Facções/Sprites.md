@@ -1,5 +1,7 @@
 ![[Pasted image 20251104092127.png]]
 
+[[monstros.pdf#page=301|Sprites]]
+
 
 ## Origem
 
@@ -18,7 +20,7 @@ Realizam patrulhas regulares ao redor da floresta para saber se alguém com um m
 
 ## Relações
 
-- [[Facções/Fadas|Fadas]]: Convivem juntos com uma forte relação de amizade.
+- [[Pixies|Pixies]]: Convivem juntos com uma forte relação de amizade.
 - [[Facções/Plantas|Plantas]]: São aliados mas apresentam transtornos na divisão de [[Vintana]].
 
 
