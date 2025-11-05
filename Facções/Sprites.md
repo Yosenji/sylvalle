@@ -7,16 +7,17 @@
 
 Habitantes das florestas na ilha [[Silvalle]].
 
-## Importância
-
 São fadas especializadas em combate, adeptas no uso de flechas encantadas que causam charm nos inimigos.
 
-Realizam patrulhas regulares ao redor da floresta para saber se alguém com um mal coração está próximo.
+## Objetivo
+
+- Garantir o equilíbrio na floresta e proteger os seus habitantes, para isso realizam patrulhas regulares ao redor da floresta para saber se alguém com um mal coração está próximo.
 
 ## Localização
 
 - Redondezas do [[Golem de Sylvalle]], onde protegem os frutos de [[Vintana]].
 - Florestas de Sylvalle
+- [[Vale das Fadas]]
 
 ## Relações
 

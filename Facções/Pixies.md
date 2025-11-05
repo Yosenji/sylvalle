@@ -3,12 +3,18 @@
 
 Habitantes das florestas na ilha [[Silvalle]].
 
-## Importância
+## Objetivo
 
+- Querem segurança nas redondezas para explorar locais fora do vale.
+
+## Características
+
+- Pregam peças nos viajantes da região
+- Criaturas curiosas por natureza
 
 ## Localização
 
-- Redondezas do [[Golem de Sylvalle]], onde protegem os frutos de [[Vintana]].
+- [[Vale das Fadas]]
 - Florestas de Sylvalle
 
 ## ## Relações
