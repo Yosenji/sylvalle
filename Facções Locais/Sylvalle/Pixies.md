@@ -20,4 +20,4 @@ Habitantes das florestas na ilha [[Silvalle]].
 ## ## Relações
 
 - [[Sprites]]: Convivem juntos com uma forte relação de amizade.
-- [[Facções/Plantas|Plantas]]: São aliados mas apresentam transtornos na divisão de [[Vintana]].
+- [[Plantas|Plantas]]: São aliados mas apresentam transtornos na divisão de [[Vintana]].

@@ -22,6 +22,6 @@ São fadas especializadas em combate, adeptas no uso de flechas encantadas que c
 ## Relações
 
 - [[Pixies|Pixies]]: Convivem juntos com uma forte relação de amizade.
-- [[Facções/Plantas|Plantas]]: São aliados mas apresentam transtornos na divisão de [[Vintana]].
+- [[Plantas|Plantas]]: São aliados mas apresentam transtornos na divisão de [[Vintana]].
 
 
