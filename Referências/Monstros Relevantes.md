@@ -1,14 +1,15 @@
-# Habitats
+## Habitats
 
 - [[monstros.pdf#page=379|Monstros da floresta]]
+- [[monstros.pdf#page=380|Monstros do pântano]]
 
 
-# Tipos
+## Tipos
 
 - [[monstros.pdf#page=384|Plantas]]
 
 
-# Monstros Relevantes
+## Floresta de Sylvalle
 
 - [[monstros.pdf#page=26|Plantas Falantes]]
 - [[monstros.pdf#page=311|Árvores falantes]]
@@ -16,3 +17,5 @@
 - [[monstros.pdf#page=46|Bichos paus]]
 - [[monstros.pdf#page=345|Yuan-ti]]
 - [[monstros.pdf#page=301|Sprites]]
+
+## Pântano de Sylvalle
