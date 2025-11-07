@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Árvore colossal plantada à séculos atrás por um mago chamado [[Elatus]], devido às propriedades mágicas da ilha de [[Silvalle]], ela cresceu rapidamente.
+Árvore colossal plantada à séculos atrás por um mago chamado [[NPCs/Elatus]], devido às propriedades mágicas da ilha de [[Silvalle]], ela cresceu rapidamente.
 
 Atualmente é uma das principais fontes de energia vital da ilha, sendo até mesmo capaz de dar vida à flora ao seu redor.
 

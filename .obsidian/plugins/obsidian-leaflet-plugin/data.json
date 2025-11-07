@@ -32,7 +32,7 @@
     },
     {
       "id": "Map",
-      "lastAccessed": 1762283659721,
+      "lastAccessed": 1762542591551,
       "markers": [
         {
           "id": "ID_0a8b09b978e9",
@@ -70,13 +70,16 @@
           "id": "ID_fb3a1a28eb2a",
           "type": "default",
           "loc": [
-            773.6632069657312,
-            690.4897718286636
+            1111.5718600252526,
+            769.3321779309637
           ],
           "layer": "%5B%5BSylvalle.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.37565047750535335,
+            -0.7236795963706072
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -104,6 +107,22 @@
           "loc": [
             1919.1761924879381,
             967.6756300537902
+          ],
+          "layer": "%5B%5BSylvalle.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f909ba9b3b7b",
+          "type": "default",
+          "loc": [
+            780.8226631252451,
+            789.8382745853735
           ],
           "layer": "%5B%5BSylvalle.jpg%5D%5D",
           "mutable": true,

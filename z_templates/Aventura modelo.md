@@ -1,6 +1,4 @@
-## Título
-
-## Nível 
+## Título - Nível
 
 ## Situação
 
