@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facções/a.md",
+                "file": "Facções Globais/Arcanum eternum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a"
+              "title": "Arcanum eternum"
+            }
+          },
+          {
+            "id": "4fa019fa427303b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facções Locais/Sylvalle/Magos na torre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magos na torre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Facções Locais/Sylvalle/Magos na torre.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,55 +166,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8daa71395d8ff9c3",
+  "active": "4fa019fa427303b6",
   "lastOpenFiles": [
-    "z_assets/Livros/monstros.pdf",
-    "Facções/a.md",
-    "NPCs/Wissel.md",
-    "/Facções/a.md",
-    "/Facções/Sprites.md",
-    "/Facções/Plantas.md",
-    "/Facções/Pixies.md",
-    "/Facções/Golem de Sylvalle.md",
-    "/Facções/An Group Model.md",
-    "/Facções",
-    "/NPCs/Wissel.md",
-    "/Locais/Vale das Fadas.md",
+    "Locais/Torre.md",
+    "Facções Locais/Sylvalle/Magos na torre.md",
+    "Locais/Grande Árvore.md",
+    "Locais/Dungeon da relíquia.md",
+    "z_assets/1c1d02c5aa04bafc2a547a60c63360ef.jpg",
     "Locais/Vale das Fadas.md",
+    "Itens/Relíquia do golem.md",
+    "Facções Globais/Arcanum eternum.md",
+    "z_templates/Facção modelo.md",
+    "z_templates/Item modelo.md",
+    "Facções Locais/Sylvalle/Plantas.md",
+    "Facções Locais/Sylvalle/Golem de Sylvalle.md",
+    "z_templates/Lugar modelo.md",
+    "/z_templates/Item modelo.md",
+    "z_templates/Aventura modelo.md",
+    "z_assets/Pasted image 20251105122140.png",
+    "Facções Locais/Sylvalle/Sprites.md",
+    "Facções Locais/Sylvalle/Pixies.md",
+    "/z_templates/Facção modelo.md",
+    "/Facções Locais/Sylvalle/Plantas.md",
+    "/Facções Locais/Sylvalle/Golem de Sylvalle.md",
+    "/z_templates/Lugar modelo.md",
+    "/z_templates/Aventura modelo.md",
+    "/z_assets/Pasted image 20251105122140.png",
+    "/z_assets/Pasted image 20251105110309.png",
+    "z_assets/Pasted image 20251105110309.png",
+    "/z_assets",
+    "/Referências/Monstros Relevantes.md",
+    "/Referências",
+    "NPCs/Elatus.md",
+    "/Locais/Grande Árvore.md",
     "/Locais",
-    "NPCs",
+    "/Facções Locais/Sylvalle/Sprites.md",
+    "/Facções Locais/Sylvalle/Pixies.md",
     "/NPCs",
-    "Referências/Monstros Relevantes.md",
-    "Referências/Aventuras.md",
-    "Facções/Sprites.md",
+    "z_templates",
+    "Facções Locais/Sylvalle",
+    "Facções Locais",
+    "Facções Globais",
+    "/z_templates",
+    "/Facções Locais/Sylvalle",
     "z_assets/Sylvalle.jpg",
-    "Facções/Pixies.md",
     "/z_assets/Sylvalle.jpg",
     "/z_assets/Pasted image 20251104162813.png",
     "z_assets/Pasted image 20251104162813.png",
-    "/z_assets",
-    "Locais/Grande Árvore.md",
-    "/Itens/Vintana.md",
-    "/Itens",
-    "/Ilhas/Silvalle.md",
-    "/Ilhas",
-    "/Locais/Grande Árvore.md",
-    "Locais",
-    "Facções/Golem de Sylvalle.md",
-    "/Referências/Aventuras.md",
-    "/Referências",
-    "/Facções/Fadas.md",
-    "Facções/Plantas.md",
-    "Ilhas/Silvalle.md",
-    "Livro dos Monstros.pdf.md",
-    "z_assets/Pasted image 20251104094726.png",
-    "z_assets/Pasted image 20251104094720.png",
-    "z_assets/Pasted image 20251104093622.png",
-    "/z_assets/Pasted image 20251104094726.png",
-    "/z_assets/Pasted image 20251104094720.png",
-    "/z_assets/Pasted image 20251104093622.png"
+    "z_assets/Pasted image 20251104094726.png"
   ]
 }
