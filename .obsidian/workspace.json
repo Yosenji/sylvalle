@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/Viajante Modelo.md",
+                "file": "NPCs/Maria Stella.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viajante Modelo"
+              "title": "Maria Stella"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -160,13 +160,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false
@@ -174,9 +174,17 @@
   },
   "active": "c8f2656b30806e58",
   "lastOpenFiles": [
+    "NPCs/Halley Vorys Van Dutch.md",
+    "z_assets/Sem título 1.jpg",
+    "z_assets/Sem título.jpg",
+    "NPCs/Maria Stella.md",
+    "NPCs/Alton.md",
+    "NPCs/Elatus.md",
+    "NPCs/Wissel.md",
+    "Viajantes/Zadiel Vorys Van Dutch.md",
+    "z_templates/Viajante Modelo.md",
     "z_templates/Aventura modelo.md",
     "Viajantes/Elatus.md",
-    "z_templates/Viajante Modelo.md",
     "Referências/Monstros Relevantes.md",
     "Viajantes",
     "Ilhas/Silvalle.md",
@@ -187,12 +195,9 @@
     "Facções Locais/Sylvalle/Magos na torre.md",
     "z_assets/Livros/monstros.pdf",
     "Facções Globais/Arcanum eternum.md",
-    "NPCs/Wissel.md",
     "Referências/Aventuras.md",
     "Locais/Grande Árvore.md",
     "z_assets/Pasted image 20251105122140.png",
-    "NPCs/Alton.md",
-    "NPCs/Elatus.md",
     "z_assets/Pasted image 20251105110309.png",
     "z_templates/Lugar modelo.md",
     "z_templates/Facção modelo.md",
@@ -204,21 +209,15 @@
     "Facções Globais",
     "Facções Locais/Sylvalle",
     "Facções Locais/Sylvalle/Sprites.md",
-    "Facções Locais/Sylvalle/Plantas.md",
-    "Facções Locais/Sylvalle/Pixies.md",
     "NPCs",
     "Locais",
     "z_assets/Pasted image 20251104162813.png",
     "Locais",
     "z_assets/Sylvalle.jpg",
     "z_assets/Livros/manual.pdf",
-    "z_assets/Livros/hehe.md",
     "z_assets/Pasted image 20251104094726.png",
     "z_assets/Pasted image 20251104094720.png",
-    "Itens/Vintana.md",
     "Ilhas",
-    "z_assets/Pasted image 20251104093622.png",
-    "z_assets/Pasted image 20251104092127.png",
-    "z_assets/Pasted image 20251104091517.png"
+    "z_assets/Pasted image 20251104093622.png"
   ]
 }
