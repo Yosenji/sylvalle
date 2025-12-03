@@ -2,7 +2,9 @@
 
 ## Ambiente
 
-## Habitantes
+## Facções
+
+## Fauna
 
 ## Informações 
 

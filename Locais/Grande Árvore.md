@@ -11,11 +11,16 @@ Responsável pela criação das [[Plantas]]
 
 ## Ambiente
 
-## Habitantes
+## Facções
 
 - [[Sprites]]
 - [[Plantas]]
 
+## Fauna
+
 ## Informações 
+
+
+
 
 

@@ -1,9 +1,3 @@
-## Descrição
 
-## Ambiente
-
-## Habitantes
-
-## Informações 
 
 
