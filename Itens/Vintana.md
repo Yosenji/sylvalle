@@ -9,3 +9,5 @@ Apenas uma mordida serve como uma refeição inteira, fazendo com que o usuário
 Principal fonte de alimentação para [[Pixies]], [[Sprites]] e
 
 ## Localização
+
+- [[Vale das Fadas]]

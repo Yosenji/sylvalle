@@ -1,4 +1,4 @@
-!*[[1c1d02c5aa04bafc2a547a60c63360ef.jpg]]
+![[1c1d02c5aa04bafc2a547a60c63360ef.jpg]]
 ## Descrição
 
 Local construído para proteger a [[Relíquia do golem]].
