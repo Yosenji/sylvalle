@@ -11,14 +11,16 @@ Responsável pela criação das [[Plantas]]
 
 ## Ambiente
 
+Árvore grande.
+
 ## Facções
 
 - [[Sprites]]
 - [[Plantas]]
 
-## Fauna
-
 ## Informações 
+
+- 
 
 
 
