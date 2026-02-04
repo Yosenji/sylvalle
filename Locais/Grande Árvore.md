@@ -1,5 +1,3 @@
-![[Pasted image 20251105110309.png]]
-![[Pasted image 20251105122140.png]]
 
 ## Descrição
 
@@ -11,16 +9,22 @@ Responsável pela criação das [[Plantas]]
 
 ## Ambiente
 
-Árvore grande.
+
+![[Pasted image 20251105110309.png]]
+![[Pasted image 20251105122140.png]]
+
+- Árvore grande.
+- Cercada por lojas e casas
+- Há casas dentro dela tbm
 
 ## Facções
 
 - [[Sprites]]
 - [[Plantas]]
 
-## Informações 
+## Segredos 
 
-- 
+- No andar mais alto há um 
 
 
 

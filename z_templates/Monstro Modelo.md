@@ -1,6 +1,0 @@
-## Origem
-
-## Objetivo
-
-## Natureza
-

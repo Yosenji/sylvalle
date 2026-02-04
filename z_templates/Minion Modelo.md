@@ -1,7 +1,5 @@
 ## Descrição
 
-## Personalidade
-
 ## Aparência
 
-## Segredos
+## Ficha

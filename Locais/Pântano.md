@@ -1,6 +1,6 @@
 ## Descrição
 
-
+Região lamacenta com árvores retorcidas e secas, lar de criaturas perigosas como  
 
 ## Ambiente
 
@@ -19,7 +19,7 @@
 
 
 
-## Informações 
+## Segredos 
 
 - 
 

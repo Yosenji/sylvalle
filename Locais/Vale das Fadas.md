@@ -15,7 +15,7 @@ Região da floresta onde as plantas adotaram uma pigmentação mais escura devid
 
 
 
-## Informações 
+## Segrados 
 
 - Local onde o [[Golem de Sylvalle]] está adormecido, ao redor do qual as fadas abrigam.
 

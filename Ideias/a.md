@@ -1,0 +1,2 @@
+- Santuário com sinais de corrupção pela praga
+- Ameaça ao equilíbrio da floresta

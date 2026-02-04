@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "66438c48c96f1d94",
+        "id": "de8197abcc416ac6",
         "type": "tabs",
         "children": [
           {
-            "id": "99a0bc4fa705bd75",
+            "id": "b8ee0979840f54a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viajantes/Elatus.md",
+                "file": "z_templates/Encontro Modelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elatus"
+              "title": "Encontro Modelo"
+            }
+          },
+          {
+            "id": "b57cdefb05e99a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encontros/Cachorro Machucado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cachorro Machucado"
+            }
+          },
+          {
+            "id": "7369f3def528fb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encontros/Intro do Zadiel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro do Zadiel"
+            }
+          },
+          {
+            "id": "16d96e6578ae5e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encontros/Encontro com o Basilisco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encontro com o Basilisco"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,53 +215,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99a0bc4fa705bd75",
+  "active": "16d96e6578ae5e2e",
   "lastOpenFiles": [
-    "Viajantes/Caspian.md",
-    "NPCs/Halley Vorys Van Dutch.md",
-    "NPCs/Maria Stella.md",
-    "z_templates/NPC modelo.md",
-    "z_templates/Viajante Modelo.md",
-    "z_templates/Monstro Modelo.md",
-    "Locais/Pântano.md",
-    "Locais/Grande Árvore.md",
-    "Locais/Dungeon da relíquia.md",
-    "z_templates/Lugar modelo.md",
-    "z_templates/Item modelo.md",
-    "z_templates/Facção modelo.md",
-    "z_templates/Aventura modelo.md",
+    "Encontros/Encontro com o Dragão.md",
+    "Encontros/Encontro com o Basilisco.md",
+    "Encontros/Fada Travessa e Guarda.md",
+    "Encontros/Encontro com a Sera.md",
+    "Encontros/Cachorro Machucado.md",
+    "Encontros/Morte do Rowan Coyote.md",
+    "Encontros/Intro do Elatus.md",
+    "Encontros/Intro do Zadiel.md",
+    "NPCs/Sylvalle/Floresta/Victor.md",
+    "NPCs/Sylvalle/Floresta/Winda.md",
+    "z_assets/Pasted image 20260204095529.png",
+    "z_assets/Pasted image 20260204095208.png",
+    "Facções Locais/Sylvalle/Pixies.md",
+    "NPCs/Sylvalle/Floresta",
+    "Untitled.md",
+    "z_assets/Pasted image 20260204094304.png",
     "z_templates/Encontro Modelo.md",
-    "Viajantes/Zadiel Vorys Van Dutch.md",
-    "conflict-files-obsidian-git.md",
-    "Facções Globais/Vigias da névoa.md",
-    "Viajantes/Elatus.md",
-    "Facções Globais/Raça do Personagem da Ana.md",
-    "Referências/Monstros Relevantes.md",
-    "z_assets/3fd0e65b78535b42e195dbbd92f911a3.jpg",
-    "Facções Locais/Sylvalle/Sapos.md",
-    "Locais/Vale das Fadas.md",
-    "Itens/Vintana.md",
-    "Itens/Relíquia do golem.md",
-    "Locais/Torre.md",
-    "Ilhas/Silvalle.md",
-    "Mecânicas",
-    "z_assets/Sem título 1.jpg",
-    "z_assets/Sem título.jpg",
-    "Viajantes",
-    "z_assets/1c1d02c5aa04bafc2a547a60c63360ef.jpg",
+    "Encontros",
+    "NPCs/Sylvalle/Praia/Sera.md",
+    "NPCs/Sylvalle/Grande Árvore/Ancião.md",
     "z_assets/Livros/monstros.pdf",
-    "z_assets/Pasted image 20251105122140.png",
-    "z_assets/Pasted image 20251105110309.png",
-    "z_templates",
-    "Facções Globais",
-    "Facções Locais/Sylvalle",
-    "NPCs",
-    "Locais",
-    "z_assets/Pasted image 20251104162813.png",
-    "Locais",
-    "z_assets/Sylvalle.jpg",
-    "z_assets/Livros/manual.pdf",
-    "z_assets/Pasted image 20251104094726.png",
-    "z_assets/Pasted image 20251104094720.png"
+    "Facções Locais/Sylvalle/Sprites.md",
+    "Facções Locais/Sylvalle/Sapos.md",
+    "Facções Locais/Sylvalle/Magos na torre.md",
+    "Facções Locais/Sylvalle/Golem de Sylvalle.md",
+    "Facções Globais/Vigias da névoa.md",
+    "Facções Globais/Arcanum eternum.md",
+    "Facções Globais/Raça do Personagem da Ana.md",
+    "NPCs/Alton.md",
+    "z_templates/Vilão Modelo.md",
+    "z_templates/Minion Modelo.md",
+    "Minions/Constructos.md",
+    "Minions",
+    "z_assets/Pasted image 20260204090626.png",
+    "z_assets/Pasted image 20260204090524.png",
+    "z_assets/Pasted image 20260204090437.png",
+    "z_assets/Pasted image 20260204085410.png",
+    "Ideias",
+    "z_assets/Pasted image 20260204082621.png",
+    "Vilões",
+    "NPCs/Sylvalle/Praia",
+    "NPCs/Sylvalle/Grande Árvore",
+    "NPCs/Sylvalle",
+    "z_assets/3fd0e65b78535b42e195dbbd92f911a3.jpg",
+    "Mecânicas",
+    "z_assets/Sem título 1.jpg"
   ]
 }
